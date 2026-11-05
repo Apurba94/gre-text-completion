@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-text-completion", "title": "Text Completion Trainer", "exam": "GRE", "area": "GRE Verbal", "desc": "Practise one-, two- and three-blank text completion questions, with the clue words explained.", "content": ["tc.json"], "n": 5};
